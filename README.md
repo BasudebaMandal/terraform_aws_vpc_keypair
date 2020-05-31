@@ -33,7 +33,7 @@ Terraform 0.12. Pin module version to `~> v2.0`. Submit pull-requests to `master
 
 ## Installation
 
-To create a VPC on aws using terraform code in this repository, variables need to be configured as per the oneâ€™s own need. Private and public key pair need not be created on aws console, keypair is created using teraform
+To create a VPC on aws using terraform code in this repository, variables need to be configured as per the one’s own need. Private and public key pair need not be created on aws console, keypair is created using teraform
 however private.pem and public.key needs to be created and have locally to be configured in .tfvars file.
 
 
