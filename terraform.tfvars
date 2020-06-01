@@ -1,5 +1,5 @@
 private_key_path = "C:\\TerraformLearning\\vpc-key.pem"
 public_key_path = "C:\\TerraformLearning\\vpc-key.key"
 #key_name = "terraform-learn"
-access_key = "AKIAQZYTY253KKLTOGLC"
-secret_key = "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"
+access_key = "AKIAQZYTY253KDKLTOGLC"
+secret_key = "WRzUT12ufdqBC9R8D2mLw4p170WO7Zp/osNKwybwS"
